@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=phil-cleland&label=Profile%20views&color=0e75b6&style=flat" alt="phil-cleland" /> </p>
 
-<p align="left"> <a href="https://github.com/phil-cleland/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=phil-cleland" alt="phil-cleland" /></a> </p>
+<p align="left"> <a href="https://github.com/Phil-Cleland/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=phil-cleland" alt="phil-cleland" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/phil_cleland" target="blank"><img src="https://img.shields.io/twitter/follow/phil_cleland?logo=twitter&style=for-the-badge" alt="phil_cleland" /></a> </p>
 
