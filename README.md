@@ -18,7 +18,7 @@
 <a href="https://linkedin.com/in/philemon cleland" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="philemon cleland" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/phil cleland" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="phil cleland" height="30" width="40" /></a>
 <a href="https://codesandbox.com/phil-cleland" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="phil-cleland" height="30" width="40" /></a>
-<a href="https://fb.com/phil cleland" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="phil cleland" height="30" width="40" /></a>
+<a href="https://fb.com/phil_cleland" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="phil cleland" height="30" width="40" /></a>
 <a href="https://instagram.com/p.hil_real" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="p.hil_real" height="30" width="40" /></a>
 </p>
 
